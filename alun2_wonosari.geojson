@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "alun2_wonosari",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "nama": "Gunungkidul", "y": -7.964991544, "x": 110.6008132, "kabupaten": 1 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 110.6008132, -7.964991544, 0.0 ] ] } }
+]
+}
