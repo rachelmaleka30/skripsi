@@ -1,2 +1,2 @@
 # skripsi
-mencoba
+BISMILLAHIRRAHMANNIRAHIM
